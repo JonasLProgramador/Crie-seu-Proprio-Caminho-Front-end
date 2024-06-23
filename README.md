@@ -77,6 +77,22 @@
             <li><a href="https://vitejs.dev/" target="_blank">Vite</a> - Ferramenta de build rápida para projetos web modernos.</li>
         </ul>
         <p>Veja a lista completa de dependências no arquivo <code>package.json</code>.</p>
+        <h2>🛠️ Futuras Funcionalidades</h2>
+        <ul>
+            <li><strong>🔐 Autenticação:</strong> Implementação de registro e login de usuários para um acesso seguro. Autenticação robusta usando tokens JWT para garantir a segurança do sistema.</li>
+            <li><strong>🆕 Página de Adicionar Projeto:</strong> Permitir que os usuários insiram informações completas sobre seus projetos, como título, descrição, imagens e informações de contato.</li>
+            <li><strong>📑 Página de Listar Projetos:</strong> Exibir os projetos disponíveis de forma mais organizada e amigável ao usuário.</li>
+            <li><strong>🔍 Detalhes do Projeto:</strong> Permitir que os usuários visualizem todos os detalhes de um projeto específico, incluindo imagens e informações de contato.</li>
+            <li><strong>♻️ Atualização de Projetos:</strong> Permitir que os usuários atualizem seus projetos com novas informações e conteúdos.</li>
+            <li><strong>✨ Interface do Usuário:</strong> Melhorar a experiência do usuário com um design moderno e intuitivo.</li>
+            <li><strong>📦 Refatoração:</strong> Melhorar a organização e legibilidade do código para facilitar a manutenção.</li>
+            <li><strong>✅ Testes:</strong> Implementar testes automatizados para garantir a robustez e confiabilidade do sistema.</li>
+            <li><strong>🛡️ Validação:</strong> Garantir a integridade dos dados inseridos pelos usuários com validação completa.</li>
+            <li><strong>📤 Upload de Imagens:</strong> Permitir o upload de imagens para os projetos e armazená-las de forma segura.</li>
+            <li><strong>🔔 Notificações:</strong> Alertar os usuários sobre atividades relevantes em seus projetos, como novos contatos ou comentários.</li>
+            <li><strong>🔎 Pesquisa:</strong> Permitir que os usuários encontrem projetos específicos com facilidade através de uma funcionalidade de pesquisa avançada.</li>
+            <li><strong>🌐 API REST:</strong> Desenvolver uma API REST completa para interação com o frontend, permitindo integrações com outras plataformas.</li>
+        </ul>
         <h2 id="licenca">📝 Licença</h2>
         <p>Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo <a href="LICENSE">LICENSE</a>.</p>
         <h2>📧 Contribuição</h2>
