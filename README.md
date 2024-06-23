@@ -3,7 +3,7 @@
 <body>
     <div class="container">
       <img src="https://github.com/JonasLProgramador/Crie-seu-Proprio-Caminho-Front-end/assets/172916273/0b57abac-e2fa-4cee-a036-fa8b012ae3c6">
-        <h1>📚 Você Escreve Seu Caminho</h1>
+        <h1>📚 Você Escreve Seu Próprio Caminho</h1>
         <p>O projeto <strong>"Você Escreve Seu Caminho"</strong> é um marketplace online onde os alunos da <strong>Programadores do Amanhã (PDA)</strong> podem compartilhar seus projetos individuais com potenciais empregadores. O objetivo é facilitar a busca por talentos e oportunidades, conectando alunos e empresas de forma eficiente.</p>
         <h2>📄 Sumário</h2>
         <ul>
